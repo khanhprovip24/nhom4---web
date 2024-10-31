@@ -1,0 +1,1226 @@
+D:\Project\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csprojResolveAssemblyReference.cache
+D:\Project\BanDongHosln\BanDongHo\bin\ApplicationInsights.config
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\csc.exe
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\vbc.exe
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe
+D:\Project\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\BanDongHosln\BanDongHo\bin\BanDongHo.dll.config
+D:\Project\BanDongHosln\BanDongHo\bin\BanDongHo.dll
+D:\Project\BanDongHosln\BanDongHo\bin\BanDongHo.pdb
+D:\Project\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.dll
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.Helpers.dll
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.Mvc.dll
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.Optimization.dll
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.Razor.dll
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.WebPages.dll
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.dll
+D:\Project\BanDongHosln\BanDongHo\bin\WebGrease.dll
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.xml
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+D:\Project\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.Helpers.xml
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.Mvc.xml
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.Optimization.xml
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.Razor.xml
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.WebPages.xml
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+D:\Project\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.xml
+D:\Project\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.pdb
+D:\Project\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.xml
+D:\Project\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.dll
+D:\Project\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.pdb
+D:\Project\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll
+D:\Project\BanDongHosln\BanDongHo\bin\EntityFramework.dll
+D:\Project\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.pdb
+D:\Project\BanDongHosln\BanDongHo\bin\EntityFramework.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\ApplicationInsights.config
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\csc.exe
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\vbc.exe
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.dll.config
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\EntityFramework.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Helpers.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Mvc.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Optimization.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Razor.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\WebGrease.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\EntityFramework.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Helpers.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Mvc.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Optimization.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Razor.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csprojResolveAssemblyReference.cache
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.pdb
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\ApplicationInsights.config
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\csc.exe
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\vbc.exe
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\VBCSCompiler.exe
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\BanDongHo.dll.config
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\BanDongHo.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\BanDongHo.pdb
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Antlr3.Runtime.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\BanDongHo.Domain.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\EntityFramework.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.Web.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Newtonsoft.Json.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.Helpers.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.Mvc.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.Optimization.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.Razor.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.WebPages.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.WebPages.Razor.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\WebGrease.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\BanDongHo.Domain.pdb
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\EntityFramework.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.Web.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.Helpers.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.Mvc.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.Optimization.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.Razor.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.WebPages.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\System.Web.WebPages.Razor.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Antlr3.Runtime.pdb
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\bin\Newtonsoft.Json.xml
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\obj\Debug\BanDongHo.csprojResolveAssemblyReference.cache
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\obj\Debug\BanDongHo.dll
+D:\Bin.UIT\visual studio 2015\backup BanDongHo\BanDongHo\obj\Debug\BanDongHo.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BotDetect.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BotDetect.Web.Mvc.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\ApplicationInsights.config
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\csc.exe
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\vbc.exe
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.dll.config
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.pdb
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BotDetect.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BotDetect.Web.Mvc.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\EntityFramework.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Helpers.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Mvc.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Optimization.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Razor.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\WebGrease.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.pdb
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\EntityFramework.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Helpers.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Mvc.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Optimization.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Razor.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.pdb
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.xml
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csprojResolveAssemblyReference.cache
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.dll
+C:\Users\ochutgio\Documents\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csprojResolveAssemblyReference.cache
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\ApplicationInsights.config
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\csc.exe
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\vbc.exe
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.dll.config
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BotDetect.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BotDetect.Web.Mvc.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\EntityFramework.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Helpers.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Mvc.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Optimization.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Razor.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\WebGrease.dll
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\EntityFramework.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Helpers.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Mvc.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Optimization.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Razor.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.xml
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.pdb
+E:\User\HocTap\HK2-2017-2018\Net\Source\git2\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\ApplicationInsights.config
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\csc.exe
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\vbc.exe
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.dll.config
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.pdb
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BotDetect.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BotDetect.Web.Mvc.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\EntityFramework.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Helpers.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Mvc.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Optimization.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Razor.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\WebGrease.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.pdb
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\EntityFramework.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Helpers.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Mvc.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Optimization.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.Razor.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.pdb
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.xml
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csprojResolveAssemblyReference.cache
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.dll
+D:\Bin.UIT\GitHub\ASP.NET-MVC\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.pdb
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\ApplicationInsights.config
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.dll.config
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.pdb
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BotDetect.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BotDetect.Web.Mvc.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\WebGrease.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.pdb
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll.config
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.Up2Date
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.pdb
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Win32.Registry.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.Bson.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Buffers.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.ComponentModel.Annotations.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.AccessControl.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.Cryptography.Xml.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.Principal.Windows.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.Bson.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Buffers.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Collections.Immutable.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Reflection.Metadata.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encodings.Web.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\ApplicationInsights.config
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\csc.exe
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\vbc.exe
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.dll.config
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.pdb
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BotDetect.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BotDetect.Web.Mvc.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Options.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Win32.Registry.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.Bson.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Buffers.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Collections.Immutable.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.ComponentModel.Annotations.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Drawing.Common.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Reflection.Metadata.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.AccessControl.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.Cryptography.Xml.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.Principal.Windows.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encodings.Web.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Helpers.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Mvc.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Optimization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\WebGrease.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.pdb
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll.config
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Options.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.Bson.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Buffers.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Collections.Immutable.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Reflection.Metadata.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encodings.Web.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Helpers.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Mvc.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Optimization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.Up2Date
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.pdb
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\ApplicationInsights.config
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\csc.exe
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\vbc.exe
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.dll.config
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.pdb
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BotDetect.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BotDetect.Web.Mvc.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Session.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Options.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Win32.Registry.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.Bson.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Buffers.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Collections.Immutable.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.ComponentModel.Annotations.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Drawing.Common.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Reflection.Metadata.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.AccessControl.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.Cryptography.Xml.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.Principal.Windows.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encodings.Web.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Helpers.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Mvc.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Optimization.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\WebGrease.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.pdb
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll.config
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Session.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Options.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.Bson.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Buffers.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Collections.Immutable.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Reflection.Metadata.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encodings.Web.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Helpers.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Mvc.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Optimization.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.Up2Date
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.pdb
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Memory.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Memory.xml
+C:\Users\DELL\OneDrive\Máy tính\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Numerics.Vectors.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\ApplicationInsights.config
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\csc.exe
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\vbc.exe
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.dll.config
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.pdb
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BotDetect.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BotDetect.Web.Mvc.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cors.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Localization.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Session.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.ObjectPool.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Options.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Primitives.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.WebEncoders.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Net.Http.Headers.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Win32.Registry.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.Bson.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Buffers.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Collections.Immutable.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.ComponentModel.Annotations.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Drawing.Common.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Memory.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Numerics.Vectors.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Reflection.Metadata.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.AccessControl.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.Cryptography.Xml.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Security.Principal.Windows.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encoding.CodePages.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encodings.Web.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Helpers.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Mvc.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Optimization.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Razor.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\WebGrease.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.pdb
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\BanDongHo.Domain.dll.config
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Antlr3.Runtime.pdb
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.Web.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AI.WindowsServer.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.ApplicationInsights.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cors.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Localization.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.Session.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.ObjectPool.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Options.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.Primitives.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Extensions.WebEncoders.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Microsoft.Net.Http.Headers.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\Newtonsoft.Json.Bson.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Buffers.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Collections.Immutable.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Memory.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Numerics.Vectors.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Reflection.Metadata.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Text.Encodings.Web.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Helpers.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Mvc.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Razor.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\bin\System.Web.Optimization.xml
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.AssemblyReference.cache
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.CoreCompileInputs.cache
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.csproj.Up2Date
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.dll
+D:\ASP.NET-MVC-master\ASP.NET-MVC-master\ASP.NET-MVC-master\BanDongHosln\BanDongHo\obj\Debug\BanDongHo.pdb

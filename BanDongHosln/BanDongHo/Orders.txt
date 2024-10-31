@@ -1,0 +1,7 @@
+Danh sách đơn hàng
+===================
+Order ID: 6
+Customer Name: Lê Khánh
+Order Date: 10/31/2024 1:59:19 PM
+Total Amount: 9790000
+
