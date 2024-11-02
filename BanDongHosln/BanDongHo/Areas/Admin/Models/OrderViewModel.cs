@@ -6,7 +6,7 @@ using BanDongHo.Domain.DataContext;
 
 namespace BanDongHo.Areas.Admin.Models
 {
-    public class OrderViewModel
+    public class OrderViewModel//khởi tạo model đơn hàng
     {
         public List<DONHANG> ListOrder { get; set; }
         public List<CHITIETDONHANG> ListOrderDetail { get; set; }

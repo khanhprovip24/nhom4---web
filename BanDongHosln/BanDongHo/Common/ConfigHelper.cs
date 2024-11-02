@@ -10,7 +10,7 @@ namespace BanDongHo.Common
 {
     public class ConfigHelper
     {
-        public static string GetByKey(string key)
+        public static string GetByKey(string key)//Lấy thông tin từ file config
         {
             return ConfigurationManager.AppSettings[key].ToString();
         }

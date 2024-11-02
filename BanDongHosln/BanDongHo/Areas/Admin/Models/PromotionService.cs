@@ -15,13 +15,13 @@ namespace BanDongHo.Areas.Admin.Models
             db = new BANDONGHOEntities();
         }
 
-        public IEnumerable<KHUYENMAI> getAllPromotion()
+        public IEnumerable<KHUYENMAI> getAllPromotion()//Lấy tất cả khuyến mãi
         {
             db = new BANDONGHOEntities();
             return db.KHUYENMAIs;
         }
 
-        public bool addPromotion(KHUYENMAI km)
+        public bool addPromotion(KHUYENMAI km)//Thêm khuyến mãi
         {
             try
             {
@@ -35,7 +35,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public bool updatePromotion(KHUYENMAI km)
+        public bool updatePromotion(KHUYENMAI km)//Cập nhật khuyến mãi
         {
             try
             {
@@ -55,7 +55,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public bool deletePromotion(string makm)
+        public bool deletePromotion(string makm)//Xóa khuyến mãi
         {
             try
             {
@@ -72,7 +72,7 @@ namespace BanDongHo.Areas.Admin.Models
 
         }
 
-        public string getLastRecord()
+        public string getLastRecord()//Lấy mã khuyến mãi cuối cùng
         {
             string res = "";
             var lastrecord = db.KHUYENMAIs.OrderByDescending(p => p.MAKM).FirstOrDefault();
@@ -84,7 +84,7 @@ namespace BanDongHo.Areas.Admin.Models
             return res;
         }
 
-        public KHUYENMAI getPromotionById(string makm)
+        public KHUYENMAI getPromotionById(string makm)//Lấy khuyến mãi theo mã khuyến mãi
         {
             return db.KHUYENMAIs.Find(makm);
         }

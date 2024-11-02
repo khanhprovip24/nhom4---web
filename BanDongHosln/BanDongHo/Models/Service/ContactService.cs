@@ -10,7 +10,7 @@ namespace BanDongHo.Models.Service
 {
     public class ContactService
     {
-        public static bool SendMail(ViewModel.ContactViewModel model)
+        public static bool SendMail(ViewModel.ContactViewModel model)//gửi thư mail
         {
             SmtpClient smtp = new SmtpClient();
             try

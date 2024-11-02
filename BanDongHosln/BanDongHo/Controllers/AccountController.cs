@@ -12,10 +12,11 @@ namespace BanDongHo.Controllers
 {
     public class AccountController : Controller
     {
+        //tạo model hỗ trợ
         IRegisterService registerService;
         // GET: Account
         [HttpGet]
-        public ActionResult Register()
+        public ActionResult Register()//Trang đăng ký
         {
             RegisterViewModel register = new RegisterViewModel();
             ViewBag.MessageRegister = "";
@@ -24,7 +25,7 @@ namespace BanDongHo.Controllers
 
         [HttpPost]
         [CaptchaValidation("CaptchaCode", "registerCaptcha", "Mã xác nhận không đúng!")]
-        public ActionResult Register(RegisterViewModel register)
+        public ActionResult Register(RegisterViewModel register)//Xử lý đăng ký
         {
             ViewBag.MessageRegister = "";
             // Kiểm tra dữ liệu
@@ -62,7 +63,7 @@ namespace BanDongHo.Controllers
         }
 
         [HttpGet]
-        public ActionResult Login()
+        public ActionResult Login()//Trang đăng nhập
         {
             LoginViewModel loginViewModel = new LoginViewModel();
             ViewBag.MessageLogin = "";
@@ -71,7 +72,7 @@ namespace BanDongHo.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Login(LoginViewModel loginViewModel)
+        public ActionResult Login(LoginViewModel loginViewModel)//Xử lý đăng nhập
         {
             ViewBag.MessageLogin = "";
             if (ModelState.IsValid)
@@ -107,14 +108,14 @@ namespace BanDongHo.Controllers
             return View(loginViewModel);
         }
 
-        public ActionResult Logout()
+        public ActionResult Logout()//Đăng xuất
         {
             Session[CommonConstands.USER_SESSION] = null;
             return Redirect("/");
         }
 
         [ChildActionOnly]
-        public ActionResult UserMenu()
+        public ActionResult UserMenu()//   Menu người dùng
         {
             return PartialView();
         }

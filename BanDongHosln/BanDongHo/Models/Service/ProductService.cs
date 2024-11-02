@@ -9,15 +9,11 @@ namespace BanDongHo.Models.Service
 {
     public class ProductService
     {
-        public static List<SANPHAM> GetListProductsSelling()
+        public static List<SANPHAM> GetListProductsSelling()//lấy danh sách sản phẩm bán chạy
         {
             List<SANPHAM> ListProductsSelling = null;
 
-            // nghiệp vụ
-            // * Nếu ngày lấy danh sách trước ngày 15 hàng tháng thì sẽ lấy danh sách tháng trước
-            // * Lấy ra danh sách sản phẩm bán chạy trong tháng đó
-            // * Nếu danh sách lấy ra là null thì trả về danh sách 3 sản phẩm mới nhất
-
+         
             int Month = DateTime.Today.Month;
             int Year = DateTime.Today.Year;
             if (DateTime.Today.Day < 15)
@@ -61,7 +57,7 @@ namespace BanDongHo.Models.Service
 
             return ListProductsSelling;
         }
-
+        // Lấy danh sách sản phẩm liên quan
         internal static List<ProductViewModel> GetListProductRelative(int idTrademark)
         {
             List<ProductViewModel> result = new List<ProductViewModel>();
@@ -82,7 +78,7 @@ namespace BanDongHo.Models.Service
             }
             return result;
         }
-
+        // Lấy danh sách sản phẩm mới
         public static List<ProductViewModel> GetListNewProducts()
         {
             List<ProductViewModel> result = new List<ProductViewModel>();
@@ -105,7 +101,7 @@ namespace BanDongHo.Models.Service
 
             return result;
         }
-
+        // Lấy sản phẩm theo ID
         public static SANPHAM Find(int id)
         {
 
@@ -118,11 +114,7 @@ namespace BanDongHo.Models.Service
                 
         }
 
-        /// <summary>
-        /// Lấy ra danh sách tên sản phẩm theo keyword
-        /// </summary>
-        /// <param name="keyword"></param>
-        /// <returns></returns>
+        // Lấy sản phẩm theo tên
         public static List<string> ListName(string keyword)
         {
             using (var db = new BANDONGHOEntities())
@@ -130,10 +122,7 @@ namespace BanDongHo.Models.Service
                 return db.SANPHAMs.Where(n => n.TENSP.Contains(keyword)).Select(n => n.TENSP).ToList();
             }
         }
-
-        /// <summary>
-        /// Tìm kiếm theo tên sản phẩm
-        /// </summary>
+        // Tìm kiếm sản phẩm
         public static List<ProductViewModel> Search(string keyword)
         {
             using (var db = new BANDONGHOEntities())

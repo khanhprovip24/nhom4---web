@@ -8,7 +8,7 @@ namespace BanDongHo.Common
 {
     public class MailHelper
     {
-        public static bool SendMail(string toEmail, string subject, string content)
+        public static bool SendMail(string toEmail, string subject, string content)//Gửi mail
         {
             try
             {

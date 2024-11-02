@@ -9,33 +9,33 @@ namespace BanDongHo.Areas.Admin.Models
 {
     public class OrderService
     {
-        BANDONGHOEntities db;
+        BANDONGHOEntities db;//Khởi tạo database 
 
-        public OrderService()
+        public OrderService()//hàm khởi tạo
         {
             db = new BANDONGHOEntities();
         }
-        public IEnumerable<DONHANG> getAllOrder()
+        public IEnumerable<DONHANG> getAllOrder()//lấy tất cả don hàng
         {          
             return db.DONHANGs.OrderByDescending(n => n.MADH);
         }
 
-        public List<CHITIETDONHANG> LoadOrderDetail(int mahd)
+        public List<CHITIETDONHANG> LoadOrderDetail(int mahd)//lấy chi tiết đơn hàng theo mã đơn hàng
         {
             return db.CHITIETDONHANGs.Where(n => n.MADH == mahd).ToList();
         }
 
-        public List<SANPHAM> LoadAllProduct()
+        public List<SANPHAM> LoadAllProduct()//lấy tất cả sản phẩm
         {
             return db.SANPHAMs.ToList();
         }
 
-        public int? TakeQuantityProduct(int masp)
+        public int? TakeQuantityProduct(int masp)//lấy số lượng sản phẩm theo mã sản phẩm
         {
             return db.SANPHAMs.Where(n => n.MASP == masp).FirstOrDefault().SOLUONG;
         }
 
-        public void UpdateCustomer(OrderViewModel orderViewModel)
+        public void UpdateCustomer(OrderViewModel orderViewModel)//cập nhật thông tin khách hàng
         {
             using (var db = new BANDONGHOEntities())
             {
@@ -60,12 +60,12 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public SANPHAM GetProductByID(int masp)
+        public SANPHAM GetProductByID(int masp)//lấy sản phẩm theo mã sản phẩm
         {
             return db.SANPHAMs.Where(n => n.MASP == masp).FirstOrDefault();
         }
 
-        public void UpdateOrder(OrderViewModel orderViewModel, double? totalMoney)
+        public void UpdateOrder(OrderViewModel orderViewModel, double? totalMoney)//cập nhật đơn hàng
         {
             using (var db = new BANDONGHOEntities())
             {
@@ -93,7 +93,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public void DeleteDetailOrder(OrderViewModel orderViewModel)
+        public void DeleteDetailOrder(OrderViewModel orderViewModel)//xóa chi tiết đơn hàng
         {
             using (var db = new BANDONGHOEntities())
             {
@@ -117,7 +117,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public void InsertDetailOrder(int mahd, int masp, int soluong)
+        public void InsertDetailOrder(int mahd, int masp, int soluong)//thêm chi tiết đơn hàng
         {
             using (var db = new BANDONGHOEntities())
             {
@@ -136,7 +136,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public int HandleQuantityProduct(int masp, int soluong, bool kiemtra)
+        public int HandleQuantityProduct(int masp, int soluong, bool kiemtra)//xử lý số lượng sản phẩm
         {
             int? soluongtonkho = GetProductByID(masp).SOLUONG;
             if(kiemtra)
@@ -150,7 +150,7 @@ namespace BanDongHo.Areas.Admin.Models
             return soluongtonkho.Value;
         }
 
-        public void UpdateQuantityProduct(int masp, int soluong, bool kiemtra)
+        public void UpdateQuantityProduct(int masp, int soluong, bool kiemtra)//cập nhật số lượng sản phẩm
         {
             using (var db = new BANDONGHOEntities())
             {

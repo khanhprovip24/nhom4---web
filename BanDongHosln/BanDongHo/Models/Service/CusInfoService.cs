@@ -71,7 +71,7 @@ namespace BanDongHo.Models.Service
             
         }
         // phương thức lấy về mã khách hàng từ mã TK
-        // Method to retrieve customer ID from account ID
+        
         public static int GetIdCustomer(long IdAccount)
         {
             BANDONGHOEntities db = new BANDONGHOEntities();

@@ -5,7 +5,7 @@ using System.Web;
 using System.ComponentModel.DataAnnotations;
 namespace BanDongHo.Areas.Admin.Models
 {
-    public class PromotionDetailViewModel
+    public class PromotionDetailViewModel//MODEL của chi tiết khuyến mãi
     {
         
         [Required(ErrorMessage = "Vui lòng chọn khuyến mãi")]

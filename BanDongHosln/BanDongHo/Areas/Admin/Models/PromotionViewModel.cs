@@ -6,7 +6,7 @@ using System.Web;
 
 namespace BanDongHo.Areas.Admin.Models
 {
-    public class PromotionViewModel
+    public class PromotionViewModel//model của khuyến mãi 
     {
         [Required]
         public string MAKM { get; set; }

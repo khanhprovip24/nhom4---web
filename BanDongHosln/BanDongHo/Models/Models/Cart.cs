@@ -9,8 +9,9 @@ namespace BanDongHo.Models.Models
 {
     public class Cart
     {
-        private List<CartItem> Products = new List<CartItem>();
-        public List<string> Message {
+        private List<CartItem> Products = new List<CartItem>();//Danh sách sản phẩm trong giỏ hàng
+        public List<string> Message//thông báo nếu ko có hàng trong kho
+        {
             get
             {
                 List<string> res = new List<string>(); 

@@ -14,22 +14,22 @@ namespace BanDongHo.Areas.Admin.Models
             db = new BANDONGHOEntities();
         }
        
-        public IEnumerable<SANPHAM> getAllProduct()
+        public IEnumerable<SANPHAM> getAllProduct()//Lấy tất cả sản phẩm
         {          
             return db.SANPHAMs;
         }
 
-        public int getTotalRecord()
+        public int getTotalRecord()//Lấy tổng số sản phẩm
         {         
             return (from sp in db.SANPHAMs orderby sp.MASP descending select sp).Count();
         }
 
-        public SANPHAM getProductById(int masp)
+        public SANPHAM getProductById(int masp)//Lấy sản phẩm theo mã sản phẩm
         {          
             return db.SANPHAMs.Find(masp);
         }
 
-        public bool addProduct(SANPHAM sp)
+        public bool addProduct(SANPHAM sp)//Thêm sản phẩm
         {          
             try
             {
@@ -44,7 +44,7 @@ namespace BanDongHo.Areas.Admin.Models
             
         }
 
-        public bool updateProduct(SANPHAM sp)
+        public bool updateProduct(SANPHAM sp)//Cập nhật sản phẩm
         {          
             try
             {
@@ -70,7 +70,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public bool deleteProduct(int masp)
+        public bool deleteProduct(int masp)//Xóa sản phẩm
         {        
             try {
                 string query = "DELETE FROM CHITIETKM WHERE MASP = '" + masp + "'";
@@ -91,7 +91,7 @@ namespace BanDongHo.Areas.Admin.Models
         }
 
      
-        public IEnumerable<SANPHAM> loadProduct(int pageIndex, int pageSize)
+        public IEnumerable<SANPHAM> loadProduct(int pageIndex, int pageSize)//Phân trang sản phẩm theo số trang
         {
             IEnumerable<SANPHAM> ListProduct = null;
                   
@@ -100,12 +100,12 @@ namespace BanDongHo.Areas.Admin.Models
             return ListProduct;
         }
 
-        public IEnumerable<LOAISANPHAM> getLoaiSanPham()
+        public IEnumerable<LOAISANPHAM> getLoaiSanPham()//Lấy loại sản phẩm
         {           
             return db.LOAISANPHAMs;
         }
 
-        public IEnumerable<THUONGHIEU> getThuongHieu()
+        public IEnumerable<THUONGHIEU> getThuongHieu()//Lấy thương hiệu
         {            
             return db.THUONGHIEUx;
         }

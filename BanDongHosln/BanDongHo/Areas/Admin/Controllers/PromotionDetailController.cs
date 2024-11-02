@@ -11,6 +11,7 @@ namespace BanDongHo.Areas.Admin.Controllers
 {
     public class PromotionDetailController : Controller
     {
+        //tạo dữ liệu hỗ trợ cho việc thêm mới chi tiết khuyến mãi
         PromotionDetailService promotionDetailService = new PromotionDetailService();
        
         // GET: Admin/PromotionDetail
@@ -25,7 +26,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public ActionResult Create()
+        public ActionResult Create()// hiển thị form thêm mới chi tiết khuyến mãi
         {
             ViewBag.message = "";
             PromotionDetailViewModel promotionDetailViewModel = new PromotionDetailViewModel();
@@ -35,7 +36,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public ActionResult Create(PromotionDetailViewModel ctkm)
+        public ActionResult Create(PromotionDetailViewModel ctkm)// thêm mới chi tiết khuyến mãi
         {
             if (ModelState.IsValid)
             {
@@ -55,7 +56,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public ActionResult Update(string makm, int masp)
+        public ActionResult Update(string makm, int masp)// hiển thị form cập nhật chi tiết khuyến mãi
         {
            
             CHITIETKM chitietkm = promotionDetailService.getOnePromotionDetail(makm, masp);
@@ -74,7 +75,7 @@ namespace BanDongHo.Areas.Admin.Controllers
           
         }
 
-        public ActionResult Update(PromotionDetailViewModel ctkm)
+        public ActionResult Update(PromotionDetailViewModel ctkm)// cập nhật thông tin chi tiết khuyến mãi
         {          
             if (ModelState.IsValid)
             {
@@ -95,7 +96,7 @@ namespace BanDongHo.Areas.Admin.Controllers
             return View(ctkm);
         }
 
-        public ActionResult Delete(string makm, int masp)
+        public ActionResult Delete(string makm, int masp)// xóa chi tiết khuyến mãi
         {
             return Json(new { result = promotionDetailService.deletePromotionDetail(makm, masp) });
         }

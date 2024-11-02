@@ -6,7 +6,7 @@ using System.Web;
 
 namespace BanDongHo.Areas.Admin.Models
 {
-    public class LoginViewModel
+    public class LoginViewModel//Model đăng nhập
     {
         [Required(ErrorMessage = "Vui lòng nhập user name")]
         public string UserName { get; set; }

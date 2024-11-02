@@ -8,26 +8,13 @@ namespace BanDongHo.Models.Service
 {
     interface IRegisterSercive
     {
-        /// <summary>
-        /// Dịch vụ kiểm tra tài khoảng đã có hay chưa
-        /// </summary>
-        /// <param name="account"></param>
-        /// <returns></returns>
-        bool isExistAccount(string account);
+       
+        bool isExistAccount(string account);//kiem tra tai khoan da ton tai hay chua
 
-        /// <summary>
-        /// Dịch vụ kiểm tra thông tin mật khẩu có hợp lệ
-        /// </summary>
-        /// <param name="account"></param>
-        /// <returns></returns>
-        bool isPasswordAccount(string password);
+        bool isPasswordAccount(string password);//kiem tra mat khau hop le hay khong
 
-        /// <summary>
-        /// Đăng ký tài khoảng cho server (database)
-        /// </summary>
-        /// <param name="register"></param>
-        /// <returns></returns>
-        void RegisterAccount(Register register);
+
+        void RegisterAccount(Register register);//dang ky tai khoan
 
     }
 }

@@ -8,7 +8,7 @@ namespace BanDongHo.Models.Service
 {
     public class PromotionService
     {
-        public static int GetPromotion(int id)
+        public static int GetPromotion(int id)//Lấy giá trị phần trăm khuyến mãi của sản phẩm
         {
             int result = 0;
             using (var db = new BANDONGHOEntities())

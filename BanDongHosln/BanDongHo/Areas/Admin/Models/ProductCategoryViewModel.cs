@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace BanDongHo.Areas.Admin.Models
 {
-    public class ProductCategoryViewModel
+    public class ProductCategoryViewModel//model của loại sản phẩm
     {
         [Required]
         public string MALOAISP { get; set; }

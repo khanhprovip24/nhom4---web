@@ -11,11 +11,11 @@ namespace BanDongHo.Areas.Admin.Controllers
 {
     public class ProductCategoryController : Controller
     {
-        // GET: Admin/ProductCategory
+        //tạo dữ liệu hỗ trợ cho việc thêm mới loại sản phẩm
         ProductCategoryService productCategoryService = new ProductCategoryService();
        
         [HttpGet]
-        public ActionResult Index()
+        public ActionResult Index()// hiển thị danh sách loại sản phẩm
         {
             var userSession = (UserLogin)Session[CommonConstands.ADMIN_SESSION];
             if (userSession == null)
@@ -27,7 +27,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public ActionResult Create()
+        public ActionResult Create()// hiển thị form thêm mới loại sản phẩm
         {
             ProductCategoryViewModel productCategoryViewModel = new ProductCategoryViewModel();
             productCategoryViewModel.MALOAISP = newMALOAISP(productCategoryService.getLastRecord());
@@ -35,7 +35,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public ActionResult Create(ProductCategoryViewModel lsp)
+        public ActionResult Create(ProductCategoryViewModel lsp)// thêm mới loại sản phẩm
         {
             ViewBag.message = "";
             if (ModelState.IsValid)
@@ -60,7 +60,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public ActionResult Update(string malsp)
+        public ActionResult Update(string malsp)//tạo phương thức chỉnh sửa thông tin của hàng
         {
             ProductCategoryViewModel productCategoryViewModel = new ProductCategoryViewModel();
             var res = productCategoryService.getProductCategoryById(malsp);
@@ -70,7 +70,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public ActionResult Update(ProductCategoryViewModel lsp)
+        public ActionResult Update(ProductCategoryViewModel lsp)// cập nhật thông tin loại sản phẩm
         {
             if (ModelState.IsValid)
             {
@@ -87,14 +87,14 @@ namespace BanDongHo.Areas.Admin.Controllers
             return View(lsp);
         }
 
-        public ActionResult Delete(string malsp)
+        public ActionResult Delete(string malsp)// xóa 1 hàng
         {
             return Json(new { result = productCategoryService.deleteProductCategory(malsp)});
            
             
         }
 
-        public string newMALOAISP(string lastMALOAISP)
+        public string newMALOAISP(string lastMALOAISP)// tạo mã loại sản phẩm mới
         {
             string res = "LP00001";
             if (String.Compare(lastMALOAISP, "", false) != 0)

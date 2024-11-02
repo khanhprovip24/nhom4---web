@@ -11,6 +11,7 @@ namespace BanDongHo.Areas.Admin.Controllers
 {
     public class PromotionController : Controller
     {
+        //tạo dữ liệu hỗ trợ cho việc thêm mới khuyến mãi
         PromotionService promotionService = new PromotionService();
         // GET: Admin/Promotion
         public ActionResult Index()
@@ -25,7 +26,7 @@ namespace BanDongHo.Areas.Admin.Controllers
 
 
         [HttpGet]
-        public ActionResult Create()
+        public ActionResult Create()// hiển thị form thêm mới khuyến mãi
         {
             PromotionViewModel promotionViewModel = new PromotionViewModel();
             promotionViewModel.MAKM = newMAKM(promotionService.getLastRecord());
@@ -33,7 +34,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public ActionResult Create(PromotionViewModel km)
+        public ActionResult Create(PromotionViewModel km)// thêm mới khuyến mãi
         {
             ViewBag.message = "";
             if (ModelState.IsValid)
@@ -60,7 +61,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public ActionResult Update(string makm)
+        public ActionResult Update(string makm)//tạo phương thức chỉnh sửa thông tin của hàng
         {
             PromotionViewModel promotionViewModel = new PromotionViewModel();
             var km = promotionService.getPromotionById(makm);
@@ -72,7 +73,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public ActionResult Update(PromotionViewModel km)
+        public ActionResult Update(PromotionViewModel km)// cập nhật thông tin khuyến mãi
         {
             
             if (ModelState.IsValid)
@@ -97,14 +98,14 @@ namespace BanDongHo.Areas.Admin.Controllers
             return View(km);
         }
 
-        public ActionResult Delete(string makm)
+        public ActionResult Delete(string makm)// xóa 1 khuyến mãi
         {
             return Json(new { result = promotionService.deletePromotion(makm) });
 
 
         }
 
-        public string newMAKM(string lastMAKM)
+        public string newMAKM(string lastMAKM)//tạo mã khuyến mãi mới
         {
             string res = "KM00001";
             if (String.Compare(lastMAKM, "", false) != 0)

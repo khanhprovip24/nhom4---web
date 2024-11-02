@@ -16,12 +16,12 @@ namespace BanDongHo.Areas.Admin.Models
             db = new BANDONGHOEntities();
         }
 
-        public IEnumerable<LOAISANPHAM> getAllProductCategory()
+        public IEnumerable<LOAISANPHAM> getAllProductCategory()//lấy tất cả loại sản phẩm
         {        
             return db.LOAISANPHAMs;
         }
 
-        public bool addProductCategory(LOAISANPHAM lsp)
+        public bool addProductCategory(LOAISANPHAM lsp)//thêm loại sản phẩm
         {
             try
             {
@@ -35,7 +35,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public bool updateProductCategory(LOAISANPHAM lsp)
+        public bool updateProductCategory(LOAISANPHAM lsp)//cập nhật loại sản phẩm
         {
             try
             {
@@ -53,7 +53,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public bool deleteProductCategory(string malsp)
+        public bool deleteProductCategory(string malsp)//xóa loại sản phẩm
         {          
                 try
                 {              
@@ -70,7 +70,7 @@ namespace BanDongHo.Areas.Admin.Models
 
         }
 
-        public string getLastRecord()
+        public string getLastRecord()//lấy mã loại sản phẩm cuối cùng
         {
             string res = "";
             var lastrecord = db.LOAISANPHAMs.OrderByDescending(p => p.MALOAISP).FirstOrDefault();
@@ -82,7 +82,7 @@ namespace BanDongHo.Areas.Admin.Models
             return res ;
         }
 
-        public LOAISANPHAM getProductCategoryById(string malsp)
+        public LOAISANPHAM getProductCategoryById(string malsp)//lấy loại sản phẩm theo mã
         {
             return db.LOAISANPHAMs.Find(malsp);
         }

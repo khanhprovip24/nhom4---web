@@ -11,7 +11,7 @@ namespace BanDongHo.Models.Service
 {
     public class RegisterService : IRegisterService
     {
-        public bool isExistAccount(string account)
+        public bool isExistAccount(string account)//kiem tra tai khoan da ton tai hay chua
         {
             // get tk => tk.TENDN == account
             // if tk == null return true ? falsea
@@ -26,90 +26,13 @@ namespace BanDongHo.Models.Service
             return false;
         }
 
-        /// <summary>
-        /// Kiểm tra độ mạnh mật khẩu
-        ///    ^                         Start anchor
-        ///    (?=.*[A-Z].*[A-Z])        Ensure string has two uppercase letters.
-        ///    (?=.*[!@#$&*])            Ensure string has one special case letter.
-        ///    (?=.*[0-9].*[0-9])        Ensure string has two digits.
-        ///    (?=.*[a-z].*[a-z].*[a-z]) Ensure string has three lowercase letters.
-        ///    .{8}                      Ensure string is of length 8.
-        ///    $                         End anchor.
-        /// </summary>
-        /// <param name="password"></param>
-        /// <returns></returns>
-        public bool isValidPassword(string password)
+       
+        public bool isValidPassword(string password)//kiem tra mat khau hop le hay khong
         {
             return Regex.IsMatch(password, @"\w");
         }
 
-        //public void GetMaKH(string MAKH)
-        //{
-        //    BANDONGHOEntities db = new BANDONGHOEntities();
-        //    // Lấy mã khách hàng lớn nhất 
-        //    KHACHHANG kh = (from KH in db.KHACHHANGs
-        //                    orderby KH.MAKH
-        //                    select KH).SingleOrDefault();
-        //    if (kh == null)
-        //    {
-        //        MAKH = ID_DEFAULT;
-        //    }
-        //    else
-        //    {
-        //        // cắt 2 ký tự đầu
-        //        int numberID;
-        //        if (!Int32.TryParse(MAKH.Substring(2), out numberID))
-        //        {
-        //            MAKH = ID_DEFAULT;
-        //        }
-        //        else
-        //        {
-        //            numberID++;
-        //            string newID = "KH";
-        //            for (int i = 0; i < 5 - numberID.ToString().Length; i++)
-        //            {
-        //                newID += "0";
-        //            }
-        //            newID += numberID.ToString();
-        //            MAKH = newID;
-        //        }
-        //    }
-        //}
-
-        //public void GetMaTK(string MATK)
-        //{
-        //    BANDONGHOEntities db = new BANDONGHOEntities();
-        //    // Lấy mã tài khoản lớn nhất 
-        //    TAIKHOAN tk = (from TK in db.TAIKHOANs
-        //                   orderby TK.MATK
-        //                   select TK).SingleOrDefault();
-        //    if (tk == null)
-        //    {
-        //        MATK = TK_DEFAULT;
-        //    }
-        //    else
-        //    {
-        //        // cắt 2 ký tự đầu
-        //        int numberID;
-        //        if (!Int32.TryParse(MATK.Substring(2), out numberID))
-        //        {
-        //            MATK = TK_DEFAULT;
-        //        }
-        //        else
-        //        {
-        //            numberID++;
-        //            string newID = "TK";
-        //            for (int i = 0; i < 5 - numberID.ToString().Length; i++)
-        //            {
-        //                newID += "0";
-        //            }
-        //            newID += numberID.ToString();
-        //            MATK = newID;
-        //        }
-        //    }
-        //}
-
-        public void RegisterAccount(RegisterViewModel register)
+        public void RegisterAccount(RegisterViewModel register)//dang ky tai khoan
         {
             int makh;
             BANDONGHOEntities db = new BANDONGHOEntities();

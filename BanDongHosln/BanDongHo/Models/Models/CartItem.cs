@@ -6,7 +6,7 @@ using BanDongHo.Domain.DataContext;
 
 namespace BanDongHo.Models.Models
 {
-    public class CartItem
+    public class CartItem//model giỏ hàng
     {
         public SANPHAM Product { get; set; }
         public int Quantity { get; set; }

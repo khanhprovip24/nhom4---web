@@ -9,24 +9,24 @@ namespace BanDongHo.Areas.Admin.Models
    
     public class ProductBrandService
     {
-        BANDONGHOEntities db;
+        BANDONGHOEntities db;//khởi tạo database
 
-        public ProductBrandService()
+        public ProductBrandService()//hàm khởi tạo
         {
             db = new BANDONGHOEntities();
         }
 
-        public IEnumerable<THUONGHIEU> getAllProductBrand()
+        public IEnumerable<THUONGHIEU> getAllProductBrand()//lấy tất cả thương hiệu
         {          
             return db.THUONGHIEUx;
         }
 
-        public THUONGHIEU getProductBrandById(int math)
+        public THUONGHIEU getProductBrandById(int math)//lấy thương hiệu theo mã thương hiệu
         {
             return db.THUONGHIEUx.Find(math);
         }
 
-        public bool addProductBrand(THUONGHIEU th)
+        public bool addProductBrand(THUONGHIEU th)//thêm thương hiệu
         {
             try
             {
@@ -40,7 +40,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public bool updateProductBrand(THUONGHIEU th)
+        public bool updateProductBrand(THUONGHIEU th)//cập nhật thương hiệu
         {
             try
             {
@@ -60,7 +60,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public bool deleteProductBrand(int math)
+        public bool deleteProductBrand(int math)//xóa thương hiệu
         {
             try
             {

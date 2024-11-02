@@ -9,7 +9,7 @@ namespace BanDongHo.Common
 {
     public class Encryptor
     {
-        public static string MD5Hash(string text)
+        public static string MD5Hash(string text)//Mã hóa mật khẩu
         {
             MD5 md5 = new MD5CryptoServiceProvider();
 

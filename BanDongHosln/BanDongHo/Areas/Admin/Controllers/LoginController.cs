@@ -12,7 +12,7 @@ namespace BanDongHo.Areas.Admin.Controllers
     {
         // GET: Admin/Login
         [HttpGet]
-        public ActionResult Login()
+        public ActionResult Login()// hiển thị form đăng nhập
         {
             LoginViewModel loginViewModel = new LoginViewModel();
             return View(loginViewModel);
@@ -20,7 +20,7 @@ namespace BanDongHo.Areas.Admin.Controllers
 
 
         [HttpPost]
-        public ActionResult Login(LoginViewModel loginViewModel )
+        public ActionResult Login(LoginViewModel loginViewModel)// xử lý đăng nhập
         {
             ViewBag.ErrorMessage = "";
             if (ModelState.IsValid)

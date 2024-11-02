@@ -16,11 +16,11 @@ namespace BanDongHo.Areas.Admin.Controllers
    
     public class ProductController : Controller
     {
-
+        //tạo dữ liệu hỗ trợ cho việc thêm mới sản phẩm
         ProductService productService = new ProductService();
         // GET: Admin/Product
 
-        public ActionResult Index(int? page)
+        public ActionResult Index(int? page)// hiển thị trang web
         {
             var userSession = (UserLogin)Session[CommonConstands.ADMIN_SESSION];
             if (userSession == null)
@@ -38,7 +38,7 @@ namespace BanDongHo.Areas.Admin.Controllers
             return View(viewModel);
         }
 
-        public ActionResult Product(int? page)
+        public ActionResult Product(int? page)// hiển thị danh sách sản phẩm theo trang
         {
             var pager = new Pager(productService.getTotalRecord(), page);
             var viewModel = new ProductPagerViewModel
@@ -51,7 +51,7 @@ namespace BanDongHo.Areas.Admin.Controllers
 
         }
 
-        public ActionResult Create()
+        public ActionResult Create()// hiển thị form thêm mới sản phẩm
         {
             var userSession = (UserLogin)Session[CommonConstands.ADMIN_SESSION];
             if (userSession == null)
@@ -65,7 +65,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
 
-        public ActionResult Detail(int masp)
+        public ActionResult Detail(int masp)// hiển thị chi tiết sản phẩm
         {
             var userSession = (UserLogin)Session[CommonConstands.ADMIN_SESSION];
             if (userSession == null)
@@ -76,7 +76,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public ActionResult Create(ProductViewModel sanpham)
+        public ActionResult Create(ProductViewModel sanpham)// thêm mới sản phẩm
         {
             ViewBag.message = "";
             ViewBag.ThuongHieu = productService.getThuongHieu();
@@ -108,7 +108,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public ActionResult Update(int masp)
+        public ActionResult Update(int masp)//tạo phương thức chỉnh sửa thông tin của hàng
         {
             ViewBag.ThuongHieu = productService.getThuongHieu();
             ViewBag.LoaiSanPham = productService.getLoaiSanPham();
@@ -130,7 +130,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public ActionResult Update(ProductViewModel sanpham)
+        public ActionResult Update(ProductViewModel sanpham)// cập nhật thông tin sản phẩm
         {
             ViewBag.ThuongHieu = productService.getThuongHieu();
             ViewBag.LoaiSanPham = productService.getLoaiSanPham();
@@ -163,13 +163,13 @@ namespace BanDongHo.Areas.Admin.Controllers
             }         
         }
 
-        public ActionResult Delete(int masp)
+        public ActionResult Delete(int masp)//xóa sản phẩm
         {
             return Json(new { result = productService.deleteProduct(masp) });
         }
 
         [HttpPost]
-        public JsonResult PhotoCreate(string tenhinh)
+        public JsonResult PhotoCreate(string tenhinh)// tạo phương thức upload hình ảnh
         {
             for (int i = 0; i < Request.Files.Count; i++)
             {
@@ -193,7 +193,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public JsonResult Photo(string hinhlon, string hinhnho)
+        public JsonResult Photo(string hinhlon, string hinhnho)// tạo phương thức upload hình ảnh
         {
             for (int i = 0; i < Request.Files.Count; i++)
             {
@@ -221,7 +221,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public JsonResult PhotoUpdate(string hinhlon, string hinhnho)
+        public JsonResult PhotoUpdate(string hinhlon, string hinhnho)// tạo phương thức upload hình ảnh
         {
             for (int i = 0; i < Request.Files.Count; i++)
             {

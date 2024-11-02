@@ -16,23 +16,14 @@ namespace BanDongHo.Models.Service
             db = new BANDONGHOEntities();
         }
 
-        /// <summary>
-        /// Service lấy username
-        /// </summary>
-        /// <param name="userName"></param>
-        /// <returns></returns>
-        public TAIKHOAN GetById(string userName)
+       
+        public TAIKHOAN GetById(string userName)//lấy thông tin tài khoản
         {
             return db.TAIKHOANs.SingleOrDefault(n => n.TENDN == userName);
         }
 
-        /// <summary>
-        /// Service kiểm tra username và password
-        /// </summary>
-        /// <param name="userName"></param>
-        /// <param name="passWord"></param>
-        /// <returns></returns>
-        public int Login(string userName, string passWord)
+ 
+        public int Login(string userName, string passWord)//quá trình đăng nhập
         {
             var result = db.TAIKHOANs.SingleOrDefault(n => n.TENDN == userName);
             if(result == null)

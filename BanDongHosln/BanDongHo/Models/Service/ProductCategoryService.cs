@@ -9,13 +9,7 @@ namespace BanDongHo.Models.Service
 {
     public class ProductCategoryService
     {
-        /// <summary>
-        /// category[donghonam, donghonu, null], pageIndex: số trang hiện tại, pageSize: số phần tử trong 1 trang
-        /// </summary>
-        /// <param name="category"></param>
-        /// <param name="pageIndex"></param>
-        /// <param name="pageSize"></param>
-        /// <returns></returns>
+        // Load sản phẩm theo danh mục
         public static IEnumerable<SANPHAM> LoadProductCategory(string category, ref int totalRecord, int pageIndex = 1, int pageSize = 8)
         {
             IEnumerable<SANPHAM> ListProductCategory = null;
@@ -75,10 +69,7 @@ namespace BanDongHo.Models.Service
             return ListProductCategory;
         }
 
-        /// <summary>
-        /// Service load tất cả sản phẩm
-        /// </summary>
-        /// <returns></returns>
+        // Load sản phẩm theo danh mục
         public static List<ProductViewModel> LoadProductAll()
         {
             BANDONGHOEntities db = new BANDONGHOEntities();
@@ -96,10 +87,7 @@ namespace BanDongHo.Models.Service
             }
             return result;
         }
-        /// <summary>
-        /// Service load sản phẩm nam
-        /// </summary>
-        /// <returns></returns>
+        // Load sản phẩm theo danh mục đàn ông 
         public static List<ProductViewModel> LoadProductMen()
         {
             BANDONGHOEntities db = new BANDONGHOEntities();
@@ -120,10 +108,7 @@ namespace BanDongHo.Models.Service
             }
             return result;
         }
-        /// <summary>
-        /// Service load sản phẩm nữ
-        /// </summary>
-        /// <returns></returns>
+        // Load sản phẩm theo danh mục phụ nữ
         public static List<ProductViewModel> LoadProductWomen()
         {
             BANDONGHOEntities db = new BANDONGHOEntities();

@@ -7,7 +7,7 @@ namespace BanDongHo.Areas.Admin.Models
 {
     public class Pager
     {
-        public Pager(int totalItems, int? page, int pageSize = 5)
+        public Pager(int totalItems, int? page, int pageSize = 5)//khởi tạo pager(trang)
         {
             // calculate total, start and end pages
             var totalPages = (int)Math.Ceiling((decimal)totalItems / (decimal)pageSize);
@@ -36,11 +36,11 @@ namespace BanDongHo.Areas.Admin.Models
             EndPage = endPage;
         }
 
-        public int TotalItems { get; private set; }
-        public int CurrentPage { get; private set; }
-        public int PageSize { get; private set; }
-        public int TotalPages { get; private set; }
-        public int StartPage { get; private set; }
-        public int EndPage { get; private set; }
+        public int TotalItems { get; private set; }//tổng số trang
+        public int CurrentPage { get; private set; }//trang hiện tại
+        public int PageSize { get; private set; }//kích thước trang
+        public int TotalPages { get; private set; }//tổng số trang
+        public int StartPage { get; private set; }//trang bắt đầu
+        public int EndPage { get; private set; }//trang kết thúc
     }
 }

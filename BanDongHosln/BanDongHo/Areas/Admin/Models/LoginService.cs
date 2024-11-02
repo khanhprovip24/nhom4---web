@@ -8,7 +8,7 @@ namespace BanDongHo.Areas.Admin.Models
 {
     public class LoginService
     {
-        public int Login(string name, string pass)
+        public int Login(string name, string pass)//Kiểm tra đăng nhập
         {
             BANDONGHOEntities db = new BANDONGHOEntities();
             var taikhoan = db.TAIKHOANs.SingleOrDefault(x =>x.TENDN == name);
@@ -33,7 +33,7 @@ namespace BanDongHo.Areas.Admin.Models
             }
         }
 
-        public TAIKHOAN GetUserByName(string Name)
+        public TAIKHOAN GetUserByName(string Name)//Lấy thông tin tài khoản theo tên đăng nhập
         {
             BANDONGHOEntities db = new BANDONGHOEntities();
             return db.TAIKHOANs.SingleOrDefault(x => x.TENDN == Name);

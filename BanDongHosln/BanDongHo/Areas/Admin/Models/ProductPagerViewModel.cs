@@ -6,7 +6,7 @@ using System.Web;
 
 namespace BanDongHo.Areas.Admin.Models
 {
-    public class ProductPagerViewModel
+    public class ProductPagerViewModel//model của sản phẩm 
     {
         public IEnumerable<SANPHAM> Products { get; set; }
         public Pager Pager { get; set; }

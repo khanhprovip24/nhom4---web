@@ -15,7 +15,7 @@ namespace BanDongHo.Controllers
     {
         // GET: CusInfo
         [HttpGet]
-        public ActionResult Index()
+        public ActionResult Index()//Trang thông tin khách hàng
         {
             CusInfoViewModel cus = new CusInfoViewModel();
             if(Session["Cart"] ==null)
@@ -26,7 +26,7 @@ namespace BanDongHo.Controllers
             return View(cus);
         }
         [HttpPost]
-        public ActionResult Index(CusInfoViewModel model)
+        public ActionResult Index(CusInfoViewModel model)//Xử lý thông tin khách hàng
         {
             // kiểm tra danh sách sản phẩm về số lượng
             bool isCheck = true;
@@ -59,7 +59,7 @@ namespace BanDongHo.Controllers
             return RedirectToAction("Success");
         }
 
-        public ActionResult Success()
+        public ActionResult Success()//Trang thông báo đặt hàng thành công
         {
             Session["Cart"] = null;
             return View();

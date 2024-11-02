@@ -9,6 +9,7 @@ namespace BanDongHo.Models.Service
 {
     public class DetailPageService
     {
+        // Phương thức lấy chi tiết sản phẩm
         public static SANPHAM LoadDetailProduct(int Id)
         {
             SANPHAM res = null;
@@ -16,6 +17,7 @@ namespace BanDongHo.Models.Service
             res = db.SANPHAMs.Find(Id);
             return res;
         }
+        // Phương thức lấy danh sách sản phẩm liên quan
         public static IEnumerable<SANPHAM> LoadListProductRelative(int Id)
         {
             SANPHAM product = LoadDetailProduct(Id);
@@ -53,6 +55,7 @@ namespace BanDongHo.Models.Service
             }
             return res;
         }
+        // Phương thức lấy thương hiệu
         public static string GetTag(int Id)
         {
             string res = "";

@@ -15,7 +15,7 @@ namespace BanDongHo.Controllers
             
         }
 
-        public ActionResult Index()
+        public ActionResult Index()//Trang chủ
         {
             HomePageViewModel HomePageVM = new HomePageViewModel();
             HomePageVM.ProductsSelling = ProductService.GetListProductsSelling();
@@ -23,12 +23,12 @@ namespace BanDongHo.Controllers
             return View(HomePageVM);
         }
 
-        public ActionResult Checkout()
+        public ActionResult Checkout()//trang thanh toán
         {
             return View();
         }
 
-        public ActionResult Detail(int? id = null)
+        public ActionResult Detail(int? id = null)//chi tiết sản phẩm 
         {
             if (id == null)
             {
@@ -48,13 +48,13 @@ namespace BanDongHo.Controllers
         }
 
         [HttpGet]
-        public ActionResult Contact()
+        public ActionResult Contact()//liên hệ
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult Contact(ContactViewModel contact)
+        public ActionResult Contact(ContactViewModel contact)//Xử lý liên hệ
         {
             // handle in here
             if(ContactService.SendMail(contact))
@@ -69,12 +69,7 @@ namespace BanDongHo.Controllers
             return View();
         }
 
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
+       
 
 
     }

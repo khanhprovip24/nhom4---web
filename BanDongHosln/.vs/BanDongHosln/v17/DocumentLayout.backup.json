@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\BanDongHosln\\",
+  "WorkspaceRootPath": "D:\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BanDongHosln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|d:\\asp.net-mvc-master\\asp.net-mvc-master\\asp.net-mvc-master\\bandonghosln\\bandongho\\models\\service\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|solutionrelative:bandongho\\models\\service\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|d:\\btl-web-bandongho\\btl-web-bandongho\\btl-web-bandongho\\bandonghosln\\bandongho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|solutionrelative:bandongho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|d:\\asp.net-mvc-master\\asp.net-mvc-master\\asp.net-mvc-master\\bandonghosln\\bandongho\\areas\\admin\\models\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|solutionrelative:bandongho\\areas\\admin\\models\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|d:\\btl-web-bandongho\\btl-web-bandongho\\btl-web-bandongho\\bandonghosln\\bandongho\\views\\cusinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|solutionrelative:bandongho\\views\\cusinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|d:\\asp.net-mvc-master\\asp.net-mvc-master\\asp.net-mvc-master\\bandonghosln\\bandongho\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|solutionrelative:bandongho\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|d:\\btl-web-bandongho\\btl-web-bandongho\\btl-web-bandongho\\bandonghosln\\bandongho\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA3F8E30-BE46-4447-A660-BD89E8989637}|BanDongHo\\BanDongHo.csproj|solutionrelative:bandongho\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,40 +43,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\BanDongHosln\\BanDongHo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BanDongHo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\BanDongHosln\\BanDongHo\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "BanDongHo\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BanDongHosln\\BanDongHo\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BanDongHo\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BanDongHosln\\BanDongHo\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BanDongHo\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T19:13:16.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PromotionService.cs",
-              "DocumentMoniker": "D:\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\BanDongHosln\\BanDongHo\\Models\\Service\\PromotionService.cs",
-              "RelativeDocumentMoniker": "BanDongHo\\Models\\Service\\PromotionService.cs",
-              "ToolTip": "D:\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\BanDongHosln\\BanDongHo\\Models\\Service\\PromotionService.cs",
-              "RelativeToolTip": "BanDongHo\\Models\\Service\\PromotionService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAIAwwBIAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T18:54:26.884Z",
+              "WhenOpened": "2024-11-02T11:52:52.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PromotionService.cs",
-              "DocumentMoniker": "D:\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\BanDongHosln\\BanDongHo\\Areas\\Admin\\Models\\PromotionService.cs",
-              "RelativeDocumentMoniker": "BanDongHo\\Areas\\Admin\\Models\\PromotionService.cs",
-              "ToolTip": "D:\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\ASP.NET-MVC-master\\BanDongHosln\\BanDongHo\\Areas\\Admin\\Models\\PromotionService.cs",
-              "RelativeToolTip": "BanDongHo\\Areas\\Admin\\Models\\PromotionService.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowFYAAAAfAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BanDongHosln\\BanDongHo\\Views\\CusInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanDongHo\\Views\\CusInfo\\Index.cshtml",
+              "ToolTip": "D:\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BanDongHosln\\BanDongHo\\Views\\CusInfo\\Index.cshtml",
+              "RelativeToolTip": "BanDongHo\\Views\\CusInfo\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:52:43.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BanDongHosln\\BanDongHo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BanDongHo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BTL-WEB-BANDONGHO\\BanDongHosln\\BanDongHo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BanDongHo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T18:55:12.944Z",
+              "WhenOpened": "2024-11-02T11:48:32.474Z",
               "EditorCaption": ""
             }
           ]

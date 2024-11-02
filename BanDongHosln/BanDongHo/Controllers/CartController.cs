@@ -13,7 +13,7 @@ namespace BanDongHo.Controllers
     public class CartController : Controller
     {
         // GET: Cart
-        public ActionResult Index()
+        public ActionResult Index()//Trang giỏ hàng
         {
             /* Tạo mới một giỏ hàng nếu nó bằng null
                Giỏ hàng được tạo khi người dùng nhấp vào giỏ hàng hoặc 
@@ -31,7 +31,7 @@ namespace BanDongHo.Controllers
             return View(Session["Cart"] as Cart);
         }
 
-        public ActionResult AddProduct(int id,int sl=1)
+        public ActionResult AddProduct(int id,int sl=1)//Thêm sản phẩm vào giỏ hàng
         {
             /*
              * Thêm một sản phẩm vào giỏ hàng
@@ -53,7 +53,7 @@ namespace BanDongHo.Controllers
             return RedirectToAction("Index");
         }
 
-        public string DeleteProduct(int id)
+        public string DeleteProduct(int id)//Xóa sản phẩm khỏi giỏ hàng
         {
             /*
              * Xóa một sản phẩm khi người dùng chọn button delete
@@ -76,7 +76,7 @@ namespace BanDongHo.Controllers
             return "Total: " + cart.TotalMoney().ToString("0,0");
         }
 
-        public string UpdateProduct(int id,int sl)
+        public string UpdateProduct(int id,int sl)//cập nhật số lượng mua
         {
             Cart cart = Session["Cart"] as Cart;
             if (cart == null)
@@ -89,7 +89,7 @@ namespace BanDongHo.Controllers
             return res;
         }
 
-        public ActionResult Checkout()
+        public ActionResult Checkout()//Trang thanh toán
         {
             /*
              * Kiểm tra số lượng của mỗi sản phẩm trên giỏ có đủ với số lượng 
@@ -115,7 +115,7 @@ namespace BanDongHo.Controllers
         }
 
         [ChildActionOnly]
-        public ActionResult CartMenu()
+        public ActionResult CartMenu()//Hiển thị giỏ hàng ở menu
         {
             return PartialView();
         }

@@ -10,7 +10,7 @@ namespace BanDongHo.Areas.Admin.Controllers
     public class HomeController : Controller
     {
         // GET: Admin/Home
-        public ActionResult Index()
+        public ActionResult Index()// hiển thị trang chủ
         {
             var userSession = (UserLogin)Session[CommonConstands.ADMIN_SESSION];
             if (userSession == null)
@@ -22,7 +22,7 @@ namespace BanDongHo.Areas.Admin.Controllers
                   
         }
 
-        public ActionResult Logout()
+        public ActionResult Logout()// đăng xuất
         {
             Session[CommonConstands.ADMIN_SESSION] = null;
             return Redirect("~/Admin/Login/Login");

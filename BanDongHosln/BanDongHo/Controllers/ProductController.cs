@@ -12,7 +12,7 @@ namespace BanDongHo.Controllers
     {
         // GET: Product
        
-        public ActionResult Index(string cateKey, int page = 1)
+        public ActionResult Index(string cateKey, int page = 1)//Trang chủ
         {
             int pageSize = 8;
             ViewData["pageSize"] = pageSize;
@@ -43,7 +43,7 @@ namespace BanDongHo.Controllers
             return View(prctViewModel);
         }
 
-        public JsonResult ListName(String q)
+        public JsonResult ListName(String q)//lấy ra danh sách tên sản phẩm
         {
             var data = ProductService.ListName(q);
             return Json(new
@@ -53,7 +53,7 @@ namespace BanDongHo.Controllers
             }, JsonRequestBehavior.AllowGet);
         }
 
-        public ActionResult Search(string keyword, int page = 1)
+        public ActionResult Search(string keyword, int page = 1)//tìm kiếm sản phẩm
         {
             int pageSize = 8;
             ViewData["pageSize"] = pageSize;

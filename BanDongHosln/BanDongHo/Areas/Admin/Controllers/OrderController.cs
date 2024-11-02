@@ -15,14 +15,15 @@ namespace BanDongHo.Areas.Admin.Controllers
     public class OrderController : Controller
     {
         private readonly BANDONGHOEntities _context;
-        public OrderController()
+        public OrderController()// kết nối vs database
         {
+            
             _context = new BANDONGHOEntities();
         }
 
         OrderService orderService = new OrderService();
         // GET: Admin/Order
-        public ActionResult Index()
+        public ActionResult Index()// hiển thị danh sách đơn hàng
         {
 
             var userSession = (UserLogin)Session[CommonConstands.ADMIN_SESSION];
@@ -41,7 +42,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public String TakeListOrderLimit(int pageIndex)
+        public String TakeListOrderLimit(int pageIndex)// lấy danh sách đơn hàng theo trang
         {
             int startPageIndex = (pageIndex - 1) * 10;
 
@@ -66,7 +67,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public String LoadOrderDetail(int id)
+        public String LoadOrderDetail(int id)// lấy chi tiết đơn hàng
         {         
             OrderViewModel orderViewModel = new OrderViewModel();
             orderViewModel.ListOrderDetail = orderService.LoadOrderDetail(id);
@@ -90,7 +91,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public String UpdateOrder(OrderViewModel orderViewModel)
+        public String UpdateOrder(OrderViewModel orderViewModel)// cập nhập đơn hàng
         {
             //xử lý số lượng đặt không được vượt quá tồn kho
             int count = orderViewModel.mangmasp.Count();
@@ -188,7 +189,7 @@ namespace BanDongHo.Areas.Admin.Controllers
 
             return chuoithongbao;
         }
-        public ActionResult ExportToTxt()
+        public ActionResult ExportToTxt()// xuất danh sách đơn hàng ra file txt
         {
             var orders = _context.DONHANGs.ToList(); // Lấy danh sách đơn hàng từ cơ sở dữ liệu
 

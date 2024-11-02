@@ -6,7 +6,7 @@ using System.Web;
 
 namespace BanDongHo.Areas.Admin.Models
 {
-    public class ProductViewModel
+    public class ProductViewModel//model của sản phẩm
     {
         public int MASP { get; set; }
         [Required(ErrorMessage = "Vui lòng nhập tên sản phẩm")]

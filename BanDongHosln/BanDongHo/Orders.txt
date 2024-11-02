@@ -1,7 +1,34 @@
 Danh sách đơn hàng
 ===================
-Order ID: 6
-Customer Name: Lê Khánh
-Order Date: 10/31/2024 1:59:19 PM
-Total Amount: 9790000
+MÃ khách hàng: 6
+Tên Khách hàng: Lê Khánh
+Ngày đặt hàng: 10/31/2024 1:59:19 PM
+SDT: 0917661242
+Địa chỉ: 100
+Mô tả : 1
+Tổng tiền: 9790000
+
+MÃ khách hàng: 6
+Tên Khách hàng: Lê Khánh
+Ngày đặt hàng: 11/1/2024 1:17:42 PM
+SDT: 1
+Địa chỉ: 11
+Mô tả : 1
+Tổng tiền: 19580000
+
+MÃ khách hàng: 6
+Tên Khách hàng: Lê Khánh
+Ngày đặt hàng: 11/2/2024 6:22:55 PM
+SDT: 0917661242
+Địa chỉ: d
+Mô tả : d
+Tổng tiền: 11210000
+
+MÃ khách hàng: 10
+Tên Khách hàng: Lê Khánh
+Ngày đặt hàng: 11/2/2024 6:54:46 PM
+SDT: f
+Địa chỉ: d
+Mô tả : f
+Tổng tiền: 54970000
 

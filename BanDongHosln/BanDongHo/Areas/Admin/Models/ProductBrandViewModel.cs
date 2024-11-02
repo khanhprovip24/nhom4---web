@@ -6,7 +6,7 @@ using System.Web;
 
 namespace BanDongHo.Areas.Admin.Models
 {
-    public class ProductBrandViewModel
+    public class ProductBrandViewModel//model thương hiệu
     {
         public int MATH { get; set; }
         [Required(ErrorMessage = "Vui lòng nhập tên sản phẩm")]

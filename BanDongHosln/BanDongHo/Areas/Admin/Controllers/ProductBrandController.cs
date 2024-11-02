@@ -15,7 +15,7 @@ namespace BanDongHo.Areas.Admin.Controllers
     {
         ProductBrandService productBrandService = new ProductBrandService();
         // GET: Admin/ProductBrand
-        public ActionResult Index()
+        public ActionResult Index()// hiển thị danh sách thương hiệu
         {
             var userSession = (UserLogin)Session[CommonConstands.ADMIN_SESSION];
             if (userSession == null)
@@ -27,14 +27,14 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public ActionResult Create()
+        public ActionResult Create()// hiển thị form thêm mới thương hiệu
         {
             ProductBrandViewModel th = new ProductBrandViewModel();
             return View(th);
         }
 
         [HttpPost]
-        public ActionResult Create(ProductBrandViewModel th)
+        public ActionResult Create(ProductBrandViewModel th)// thêm mới thương hiệu
         {
             ViewBag.message = "";
             if (ModelState.IsValid)
@@ -52,7 +52,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpGet]
-        public ActionResult Update(int math)
+        public ActionResult Update(int math)//tạo phương thức chỉnh sửa thông tin của hàng
         {
             THUONGHIEU thuonghieu = productBrandService.getProductBrandById(math);
             ProductBrandViewModel th = new ProductBrandViewModel();
@@ -64,7 +64,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public ActionResult Update( ProductBrandViewModel th)
+        public ActionResult Update( ProductBrandViewModel th)// cập nhật thông tin thương hiệu
         {
             ViewBag.message = "";
             if (ModelState.IsValid)
@@ -82,7 +82,7 @@ namespace BanDongHo.Areas.Admin.Controllers
             return View(th);
         }
 
-        public ActionResult Delete(int math)
+        public ActionResult Delete(int math)// xóa 1 hàng
         {
             return Json(new { result = productBrandService.deleteProductBrand(math)});
 
@@ -90,7 +90,7 @@ namespace BanDongHo.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public JsonResult PhotoCreate(string tenhinh)
+        public JsonResult PhotoCreate(string tenhinh)// tạo phương thức upload hình ảnh
         {    
             for (int i = 0; i < Request.Files.Count; i++)
             {
